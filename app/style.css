@@ -1,0 +1,18 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff; //
+}
+
+#vizWrapper {
+  height: calc(70vw / 2);
+  width: 70vw;
+  border: 1px solid black;
+  margin: 20px;
+}
